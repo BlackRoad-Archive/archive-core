@@ -1,23 +1,15 @@
-# archive-core
+# BlackRoad Archive Core
 
-Core archival system for long-term data preservation
+Long-term archival for BlackRoad OS data and history.
 
-## 🚀 Quick Start
+## Storage Backends
+- **IPFS** — Distributed, content-addressed (via `blackroad-ipfs`)
+- **Cloudflare R2** — Object storage for large files
+- **Local** — `~/.blackroad/archive/`
 
+## Commands
 ```bash
-# Coming soon
+br backup create     # Create backup
+br backup restore    # Restore from backup
+br backup list       # List backups
 ```
-
-## 📖 Documentation
-
-Documentation is being developed. Check back soon!
-
-## 🤝 Contributing
-
-This project is part of the BlackRoad-Archive organization in the BlackRoad ecosystem.
-
----
-
-<div align="center">
-  <sub>Part of <a href="https://github.com/BlackRoad-Archive">BlackRoad-Archive</a> • BlackRoad Ecosystem</sub>
-</div>
