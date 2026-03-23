@@ -1,3 +1,11 @@
+# archive-core
+
+> Core archival system for long-term data preservation
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Archive](https://github.com/BlackRoad-Archive)
+
+---
+
 # BlackRoad Archive Core
 
 Long-term archival for BlackRoad OS data and history.
